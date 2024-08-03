@@ -45,6 +45,12 @@
 3. **Dashboard**: View real-time data and receive notifications for parameter breaches.
 4. **Analysis**: Use data visualization tools to analyze trends and make informed decisions.
 
+## Links
+
+- **AquaCare App Working Video**: [Watch on YouTube](https://www.youtube.com/watch?v=v92SRcnVp44)
+- **Blog On AquaCare App**: [Read the Blog](https://amanatsingh.tech/aquacare)
+- **Repository Link**: [GitHub Repository](https://github.com/amanat-2003/flutter_thingsboard_app.git)
+
 ## Contributing
 
 Contributions are welcome! Please fork the repository and submit a pull request for any enhancements or bug fixes.
