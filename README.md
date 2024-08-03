@@ -59,7 +59,7 @@ For any inquiries or support, please contact:
 
 - **Name**: Amanat Singh
 - **Email**: amanatsinghnain@gmail.com
-- **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/amanat-coder/)
+- **LinkedIn**: [My LinkedIn](https://www.linkedin.com/in/amanat-coder/)
 
 ---
 
