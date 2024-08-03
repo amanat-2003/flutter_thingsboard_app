@@ -1,6 +1,3 @@
-Certainly! Here is a `readme.md` for your AquaCare app:
-
-```markdown
 # AquaCare
 
 "AquaCare" by Purgyil Technologies represents my innovative work in water management. Utilizing IoT, I tracked water parameters (volume, turbidity, temperature), triggering alarms for limit breaches. With skills in Thingsboard and Flutter, I integrated a robust backend and seamless frontend. Empowering users to manage water efficiently, promoting sustainability, and environmental consciousness in Himachal Pradesh.
