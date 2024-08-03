@@ -20,12 +20,12 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/aquacare.git
+   git clone https://github.com/amanat-2003/flutter_thingsboard_app.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd aquacare
+   cd flutter_thingsboard_app
    ```
 
 3. Install the dependencies:
@@ -57,13 +57,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For any inquiries or support, please contact:
 
-- **Name**: Your Name
-- **Email**: your.email@example.com
-- **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/yourprofile/)
+- **Name**: Amanat Singh
+- **Email**: amanatsinghnain@gmail.com
+- **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/amanat-coder/)
 
 ---
 
 Promoting sustainability and environmental consciousness in Himachal Pradesh through innovative water management solutions.
-```
-
-Make sure to replace `yourusername`, `Your Name`, `your.email@example.com`, and `https://www.linkedin.com/in/yourprofile/` with your actual details.
